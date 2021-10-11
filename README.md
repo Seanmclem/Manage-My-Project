@@ -1,6 +1,6 @@
 # Manage-My-Project
 
-Gunna be so good
+Gui for simple trello like project management. Optimized for devs. Kanbans and git repos, better tahn GH-Projects.
 
 Try Supabase
 
